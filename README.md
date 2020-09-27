@@ -33,3 +33,7 @@
 - perhaps implement repository/DAO abstraction layer that handled CRUD for the models rather than the load into memory method I did in the service abstraction
 - add more endpoints that allow filtering and such
 - add richer and less fragile endpoint tests 
+
+## Example Swagger Test Session
+![alt text](swaggerui1.JPG "API/Input")
+![alt text](swaggerui2.JPG "Output")
