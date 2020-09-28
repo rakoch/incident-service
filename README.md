@@ -32,6 +32,7 @@
 - introduce authentication service & JWT token that works in conjunction with incident-service so you could require authentication (would most likely require docker and containers + docker-compose)
 - perhaps implement repository/DAO abstraction layer that handled CRUD for the models rather than the load into memory method I did in the service abstraction
 - add more endpoints that allow filtering and such
+- better error and exception handling
 - add richer and less fragile endpoint tests 
 
 ## Example Swagger Test Session
